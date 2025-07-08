@@ -1,4 +1,4 @@
-# 👋 Hi, I’m HAK1580
+# 👋 Hi, I’m MUHAMMED HASSAN ALI KHAN 
 
 🌱 I’m a beginner web developer learning **HTML, CSS, JavaScript**  
 🎯 My goal is to become a full-stack developer and build professional websites  
