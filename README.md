@@ -8,7 +8,7 @@
 
 ## 🔗 Featured Projects  
 
-- 🛒 Perfume E-commerce Store — React, Redux Toolkit, Tailwind, API Integration  
+- 🛒 Perfume E-commerce Store — React, Redux Toolkit, Tailwind, API Integration (https://scentra-dead-final.netlify.app/)
 - 🌦️ Weather App — Real-time weather data with API integration (https://weatherapphak1580.netlify.app/)_
 - 🏫 University Admission Forms Website — Dynamic form handling and validation (https://uniadmissionform.netlify.app/) 
 - 🎬 [Netflix Clone](https://hak1580.github.io/NETFLIX-CLONE/) — Frontend UI built with HTML, CSS, JS  
